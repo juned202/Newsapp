@@ -21,7 +21,7 @@ export default class News extends Component {
   static defaultProps = {
     category: "general",
     country: "us",
-    api: "68095cc7f12e4753ae20c30ead070215"
+    api: ""
   };
 
 
